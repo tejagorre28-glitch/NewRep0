@@ -1,2 +1,0 @@
-# NewRepo
-Clone Repository 
